@@ -1,0 +1,31 @@
+---
+title: "Karla Martinez"
+about: 
+  template: marquee
+  image: images/ghiblikarla.jpeg
+  links:
+  - icon: linkedin
+    href: https://www.linkedin.com/in/karla-martinez-b446472a2
+---
+
+::: {#introheading}
+## Karla Martinez
+
+she/her/ella
+
+## Education
+
+Macalester College\|St.Paul MN <br>
+
+B.A. in Computer Science, minor in Data Science \| Sept 2023 - May 2024
+
+## About Me
+
+## Personal
+
+## Get in touch
+
+**Email** kmartine\@macalester.edu
+
+![](images/ghiblikarla.jpeg)
+:::
